@@ -3,12 +3,12 @@ entries:
   test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-11-01T15:15:20.8386356+09:00"
+    created: "2023-11-01T15:40:52.6635919+09:00"
     description: A Helm chart for Kubernetes
-    digest: 191e5ae77c8f3d98f61eef334df5e7f3417417ce31133e63b224cc7c21f9d08e
+    digest: 6ee926982a54b73a38bd0f49bcaae9ffd0de80e08e5121ac58aba6e96b59a95b
     name: test
     type: application
     urls:
     - test-0.1.0.tgz
     version: 0.1.0
-generated: "2023-11-01T15:15:20.8364587+09:00"
+generated: "2023-11-01T15:40:52.6629889+09:00"
